@@ -1,0 +1,75 @@
+body{
+    background-image: url('./assets/img/isto.jpg');
+    background-repeat: no-repeat;
+    display: table;
+    background-size: cover;
+}
+
+/* InformUsr  */
+#container-informUser{
+    text-align: center;
+    margin-top: 100%;
+}
+
+.cont{
+    text-align: center;
+    width: 100%;
+}
+
+.btn{
+    width: 150px;
+    height: 40px;
+    margin-top: 3%;
+    margin-left: 300%;
+    border-color: rgb(255, 0, 106);
+    background-color: rgba(255, 255, 255, 0);;
+}
+
+.btn :hover{
+    width: 150px;
+    height: 40px;
+    margin-top: 3%;
+    margin-left: 300%;
+    border-color: rgb(255, 0, 106);
+    background-color: rgb(255, 0, 106)
+}
+
+.campo{
+    width: 150%;
+    margin-left: 265%;
+    text-align: center;
+}
+
+/* HOME  */
+.img-home{
+    padding: 30px;
+    cursor: pointer;
+}
+
+.msg{
+    font-size: 20px;
+    color: white;
+    margin-top: 5px;
+}
+
+.us{
+    margin-top: 20px;
+    margin-left: 20%;
+}
+
+.img-perfil{
+    border-radius: 50%;
+    width: 10%;
+}
+
+.div-img-home{
+    width: 100%;
+    padding: 10px;
+    margin-left: 10%;
+    margin-top: 5%;
+}
+
+.nomeUsuario{
+    color: white;
+    margin-left: 10px;
+}
